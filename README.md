@@ -1,2 +1,2 @@
 # SpeechRecognizer
-## 语音识别DEMO，包含讯飞，百度API
+### 璇煶璇嗗埆DEMO锛屽寘鍚椋烇紝鐧惧害API
